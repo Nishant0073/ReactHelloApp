@@ -1,3 +1,4 @@
+<b>This is Simple React JS mini project which say Hello Sir,Good Morning,Good Afternoon,Good Night According to time.</b>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
